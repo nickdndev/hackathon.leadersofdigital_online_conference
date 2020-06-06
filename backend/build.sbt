@@ -1,5 +1,5 @@
 lazy val commonSettings = Seq(
-    name := "game-store",
+    name := "rooms",
     version := "1.0-SNAPSHOT",
     scalaVersion := "2.12.8",
     scalacOptions ++= Seq(
